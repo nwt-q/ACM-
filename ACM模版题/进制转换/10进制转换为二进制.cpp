@@ -51,3 +51,6 @@ signed main() {
     #endif
     return 0;
 }
+
+
+//涉及知识点: 字符串 二进制数字转换为字符串
