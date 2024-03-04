@@ -36,4 +36,5 @@ signed main() {
     return 0;
 }
 
+
 // https://www.lanqiao.cn/problems/1514/learning/?page=1&first_category_id=1&name=%E5%BF%AB%E9%80%9F%E5%B9%82
