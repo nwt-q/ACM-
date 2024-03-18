@@ -1,7 +1,7 @@
 
 ## [三途川的摆渡人](https://ac.nowcoder.com/acm/contest/77231/F)
 
->思路: 用桶的思想存储每个数据,然后对数据进行类背包dp
+>思路: 用桶的思想存储每个数据,然后对数据进行类背包dp , 当然也可以回溯算法进行解决
 
 ```cpp
 #include<bits/stdc++.h>
