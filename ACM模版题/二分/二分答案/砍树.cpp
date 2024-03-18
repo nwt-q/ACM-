@@ -1,3 +1,6 @@
+
+[砍树](https://www.educoder.net/classrooms/ospyjqb4/shixun_homework/1397445/detail?tabs=0)
+```cpp
 #include<stdio.h>      
 #include<stdlib.h>      
 #define N 100000005    
@@ -33,5 +36,4 @@ int main()
     printf("%lld\n", l);    
     return 0;      
 }
-
-// https://www.educoder.net/classrooms/ospyjqb4/shixun_homework/1397445/detail?tabs=0
+```
