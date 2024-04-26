@@ -1,3 +1,22 @@
+##[字典树考核](https://www.lanqiao.cn/problems/17166/learning/)
+
+> 题解:
+> 举个例子
+```
+3
+1 2 3
+```
+将三位数转换为二进制表示
+```
+0000001
+0000010
+0000011
+```
+每一位三取俩数进行组合,如果满足条件则统计数 `ans++` 
+
+
+
+```cpp
 #include <iostream>
 using namespace std;
 #define int long long
@@ -52,3 +71,4 @@ signed main()
     for(int i = 1; i <= T; i++) solve();
     return 0;
 }
+```
