@@ -8,7 +8,6 @@ using namespace  std;
 int a[N];
 char str[27]={0,'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
 
-
 class Solution {
 public:
     void slove(auto _) {
